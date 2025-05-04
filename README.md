@@ -7,7 +7,7 @@ This project is perfect for practicing front-end layout skills, styling, and res
 
 ## 🔗 Live Preview
 
-[Click here to view the live site](https://futdevelop.github.io/my-bike_layout)
+[Click here to view the live site](https://melnichukmykola.github.io/my-bike_layout)
 
 ---
 
@@ -33,5 +33,5 @@ This project is perfect for practicing front-end layout skills, styling, and res
 Склонуй репозиторій до себе на комп'ютер:
 
 ```bash
-git clone https://github.com/futdevelop/my-bike_layout.git
+git clone https://github.com/melnichukmykola/my-bike_layout.git
 cd my-bike_layout
